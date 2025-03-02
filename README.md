@@ -15,7 +15,7 @@ git clone https://github.com/dannymonica36/CAMILO-TOK-BOT.git
 dirigete a la carpeta en donde está el archivo main.py
 
 ```bash
-  cd Tiktok-Zefoy-Generator
+  cd CAMILO-TOK-BOT
 ```
 
 Instala las dependencias
@@ -40,7 +40,7 @@ verificar la versión de PULL
   git pull
 ```
 
-Instalar dependencias faltantes
+Instalar dependencias faltantes (clonar nuevamente el repositorio, si llegas a presentar errores)
 
 ```bash
    pip install -r requirements.txt
