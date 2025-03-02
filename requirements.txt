@@ -1,5 +1,5 @@
 colorama
-selenium -U
+selenium
 webdriver-manager
 undetected-chromedriver
 certifi
