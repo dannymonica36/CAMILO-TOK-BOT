@@ -1,6 +1,6 @@
 # Tiktok-Zefoy-Generator
 > utilizamos zefoy ejecutando el driver de chrome, y utilizamos la libreria de selenium para la funcion de entrada a zefoy y hacer su trabajo de manera sola IA. facil y sencillo y funcional!
-> ![tikbot](CAMILO-TOK-BOT)
+> ![tikbot](https://github.com/dannymonica36/CAMILO-TOK-BOT.git)
 > ¡el discord está disponible para cualquier duda o pregunta!
 
 
@@ -9,7 +9,7 @@
 ClONA EL REPOSITORIO
 
 ```bash
-  git clone https://github.com/Kenokey/Tiktok-Zefoy-Generator
+  
 ```
 
 dirigete a la carpeta en donde está el archivo main.py
@@ -26,7 +26,7 @@ Instala las dependencias
 
 ## ejecuta el bot en local
 
-Run the bot
+ejecutar el bot
 
 ```bash
   python main.py
@@ -34,13 +34,13 @@ Run the bot
 
 ## Update from previous version
 
-Pull the latest version
+verificar la versión de PULL
 
 ```bash
   git pull
 ```
 
-Install new dependencies
+Instalar dependencias faltantes
 
 ```bash
    pip install -r requirements.txt
