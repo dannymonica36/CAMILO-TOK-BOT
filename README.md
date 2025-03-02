@@ -9,8 +9,7 @@
 ClONA EL REPOSITORIO
 
 ```bash
-https://github.com/dannymonica36/CAMILO-TOK-BOT.git
-  
+git clone https://github.com/dannymonica36/CAMILO-TOK-BOT.git
 ```
 
 dirigete a la carpeta en donde está el archivo main.py
