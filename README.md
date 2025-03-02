@@ -1,4 +1,4 @@
-# Tiktok-Zefoy-Generator
+# CAMILO-TOK-BOT
 > utilizamos zefoy ejecutando el driver de chrome, y utilizamos la libreria de selenium para la funcion de entrada a zefoy y hacer su trabajo de manera sola IA. facil y sencillo y funcional!
 > ![tikbot](https://github.com/dannymonica36/CAMILO-TOK-BOT.git)
 > ¡el discord está disponible para cualquier duda o pregunta!
