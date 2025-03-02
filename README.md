@@ -32,7 +32,7 @@ ejecutar el bot
   python main.py
 ```
 
-## Update from previous version
+## actualización de la libreria (PULL)
 
 verificar la versión de PULL
 
