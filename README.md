@@ -1,30 +1,30 @@
 # Tiktok-Zefoy-Generator
-> Zefoy Automation with Chrome Selenium. Easy and Fast!
-> ![tikbot](https://github.com/Kenokey/Tiktok-Zefoy-Generator/assets/79508982/8979deea-2208-4b45-8b9b-57186c6341cb)
-> discord server if you need any help
-https://discord.gg/DnwnCrvZv8
+> utilizamos zefoy ejecutando el driver de chrome, y utilizamos la libreria de selenium para la funcion de entrada a zefoy y hacer su trabajo de manera sola IA. facil y sencillo y funcional!
+> ![tikbot](CAMILO-TOK-BOT)
+> ¡el discord está disponible para cualquier duda o pregunta!
 
-## Install Locally
 
-Clone the project
+## INSTALAR EN LOCAL
+
+ClONA EL REPOSITORIO
 
 ```bash
   git clone https://github.com/Kenokey/Tiktok-Zefoy-Generator
 ```
 
-Go to the project directory
+dirigete a la carpeta en donde está el archivo main.py
 
 ```bash
   cd Tiktok-Zefoy-Generator
 ```
 
-Install dependencies
+Instala las dependencias
 
 ```bash
   pip install -r requirements.txt
 ```
 
-## Start the bot Locally
+## ejecuta el bot en local
 
 Run the bot
 
@@ -46,7 +46,7 @@ Install new dependencies
    pip install -r requirements.txt
 ```
 
-## Info
+## Informacion despues de los requisitos ejecutados!
 
 [+] Good news.
 
